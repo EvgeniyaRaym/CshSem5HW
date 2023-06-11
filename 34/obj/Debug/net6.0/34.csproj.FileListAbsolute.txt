@@ -1,0 +1,15 @@
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.csproj.AssemblyReference.cache
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.AssemblyInfoInputs.cache
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.AssemblyInfo.cs
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.csproj.CoreCompileInputs.cache
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\bin\Debug\net6.0\34.exe
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\bin\Debug\net6.0\34.deps.json
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\bin\Debug\net6.0\34.runtimeconfig.json
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\bin\Debug\net6.0\34.dll
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\bin\Debug\net6.0\34.pdb
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.dll
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\refint\34.dll
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.pdb
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\34.genruntimeconfig.cache
+C:\Users\raym-en\Documents\GB\C#\sem 5\hw\34\obj\Debug\net6.0\ref\34.dll
